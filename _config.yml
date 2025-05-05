@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: How to Read Short Stories as a Writer
+description: A beginner's guide on how to read short stories as a writer
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://olivia530.github.io/short-stories
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/olivia530/short-stories
