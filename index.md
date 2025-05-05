@@ -13,6 +13,7 @@ Welcome! This page is a guide to one of the foundational skills for anyone who w
 - Why read short stories?
 - Reading as a writer: what it is and isn't
 - The first read: absorb
+- The second read: understand
 
 # Why read short stories?
 
@@ -32,15 +33,28 @@ The steps that follow below may seem like overkill if you're new to reading as a
 
 Let's say you have a short story that you'd like to read as a writer. The first time you read that story, don't try to learn anything from it. Instead, just **absorb** it.
 
-At this stage in the process, you are just getting a sense for the story. Notice your emotional responses to it, take heed of whether you liked it or didn't like it, and think of other works it might remind you of. Try reading some of the sentences out loud, to hear and feel the shape of the words. Here, you are just trying to enjoy reading the piece for its own sake, before you dig into what makes it tick.
+At this stage in the process, you are just getting a sense for the story. Notice your emotional responses to it, take heed of whether you liked it or didn't like it, and think of other works it might remind you of. Try reading some of the sentences out loud, to hear and feel the shape of the words--the sonic experience of a story can be just as impactful as the visual one. 
+
+Take as much or as little time as you want during this stage. Here, you are just trying to enjoy reading the piece for its own sake, before you dig into what makes it tick.
+
+# The second read: understand
+
+On this read, you're going to dig a little deeper. I recommend completing this step with a pen or pencil in hand, or a notes document open if you're reading digitally.
+
+Here you are going back through the story and making sure you **understand** it. It's easy to miss a lot of small details on an initial read for absorption, which is the level at which most regular readers stop. But as writers, we want to think about this story on a deeper level. We need to understand what happens in it and why it's working the way it works. To do that, we have to notice any points of confusion and think through them.
+
+As you read, take notes on what's happening in the story--you can write down a bulleted list of story events or plot points, or write a paragraph-long summary of the story. Circle any words or phrases you don't know and look them up in a dictionary. If the story mentions any locations, objects, historical figures, or other details with which you are unfamiliar, look those up as well.
 
 {: .tip }
 Something I like to do when I read a short story is write down its first and last sentences. Thinking about how the writer of the story got from one sentence to another is a great way to jumpstart my own creativity--how would I have connected these two points if the story was my own to write?
 
+Make sure you have the order of events in the story straight in your mind. This is especially important for stories that incorporate flashbacks or are told in non-chronological order. You might also want to jot down some notes about the form this story takes and the storytelling choices the author makes: for example, is it told in first-person or third-person point of view? Is it made up of lengthy sentences or short, clipped paragraphs? Does it span many years or a single hour?
 
-# The second read: understand
+Glean as much information about the story as you can before you move on from this stage. You'll need all that information for what comes next.
 
-Now we're going to dig a little deeper. One of the most important things to pay attention to when we're reading as writers is what *happens* in the story, versus what the story is *about.*
+# The third read: 
+
+One of the most important things to pay attention to when we're reading as writers is what *happens* in the story, versus what the story is *about.*
 
 Going off the Paulette Alden reading, who can tell me what these two concepts are and how they're different? You might want to look at page 4 and 5.
 
