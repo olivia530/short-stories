@@ -1,5 +1,4 @@
 ---
-title: Home
 layout: home
 ---
 
@@ -10,14 +9,14 @@ Welcome! This page is a guide to one of the foundational skills for anyone who w
 ***
 
 ## Table of Contents
-- Who this guide is for
-- Why read short stories?
-- Reading as a writer: what it is and isn't
-- The first read: absorb
-- The second read: understand
-- The third read: interpret
-- Further reading
-- Credits
+- [Who this guide is for](https://olivia530.github.io/short-stories/#who-this-guide-is-for)
+- [Why read short stories?](https://olivia530.github.io/short-stories/#why-read-short-stories)
+- [Reading as a writer: what it is and isn't](https://olivia530.github.io/short-stories/#reading-as-a-writer-what-it-is-and-isnt)
+- [The first read: absorb](https://olivia530.github.io/short-stories/#the-first-read-absorb)
+- [The second read: understand](https://olivia530.github.io/short-stories/#the-second-read-understand)
+- [The third read: interpret](https://olivia530.github.io/short-stories/#the-third-read-interpret)
+- [Further reading](https://olivia530.github.io/short-stories/#further-reading)
+- [Credits](https://olivia530.github.io/short-stories/#credits)
 
 ## Who this guide is for
 
